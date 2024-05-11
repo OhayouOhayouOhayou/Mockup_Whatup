@@ -1,0 +1,19 @@
+
+    
+      .simplebar-content-wrapper {
+        overflow: auto;
+      }
+
+        .text-outline-dark {
+         font-family: 'Thasadith', sans-serif !important;
+        }
+        .fw-bold {
+            font-family: 'Thasadith', sans-serif !important; 
+            }
+        body , .lead ,h1{
+            font-family: 'Thasadith', sans-serif !important; 
+        }
+        .w-100 {
+            width: 100%!important;
+            max-height: 350px;
+        }
